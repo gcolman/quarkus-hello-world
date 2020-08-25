@@ -72,6 +72,7 @@
           <systemPropertyVariables>
             <java.util.logging.manager>org.jboss.logmanager.LogManager</java.util.logging.manager>
             <maven.home>${maven.home}</maven.home>
+            <uberJar>true</uberJar>
           </systemPropertyVariables>
         </configuration>
       </plugin>
